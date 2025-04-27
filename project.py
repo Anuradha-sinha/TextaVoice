@@ -1,9 +1,3 @@
-# @author Robin Rajesh
-# @email robinsiva1998@gmail.com
-# @create date 2024-01-24 16:14:58
-# @modify date 2024-01-24 16:14:58
-# @desc Review and Rating Aggregator Backend code
-
 
 from flask import Flask, render_template, jsonify, request
 
